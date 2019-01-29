@@ -1,0 +1,13 @@
+{
+  "name": "groceryworks-test",
+  "version": "0.1.0",
+  "description": "User Journey test for GroceryWorks, written in Gauge and Taiko.",
+  "author": "Scott Davis <scott.davis@thoughtworks.com>",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "test": "gauge run specs/"
+  },
+  "dependencies": {
+    "taiko": "^0.5.0"
+  }
+}
